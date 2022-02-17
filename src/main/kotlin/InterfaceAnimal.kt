@@ -1,4 +1,4 @@
-interface Animal {
+interface InterfaceAnimal {
     val legs : Int
 
     fun makeNoise(){
