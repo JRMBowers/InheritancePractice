@@ -2,6 +2,6 @@ interface InterfaceAnimal {
     val legs : Int
 
     fun makeNoise(){
-        print("override to make noise")
+        println("override to make noise")
     }
 }
