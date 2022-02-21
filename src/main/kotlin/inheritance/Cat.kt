@@ -1,8 +1,10 @@
-class Dog : InterfaceAnimal {
+package inheritance
+
+class Cat : AbstractAnimal() {
     override val legs = 4
 
     override fun makeNoise() {
-        println("bark")
+        print("Meow")
         super.makeNoise()
     }
 }

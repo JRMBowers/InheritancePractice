@@ -1,3 +1,5 @@
+package inheritance
+
 interface InterfaceAnimal {
     val legs : Int
 

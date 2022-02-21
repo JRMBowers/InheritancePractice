@@ -1,3 +1,5 @@
+package inheritance
+
 enum class EnumAnimal{
     CAT,
     DOG

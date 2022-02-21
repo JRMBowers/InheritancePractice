@@ -1,3 +1,5 @@
+package inheritance
+
 abstract class AbstractAnimal {
     abstract val legs : Int
 
